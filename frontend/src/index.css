@@ -6,6 +6,6 @@
 }
 
 @theme {
-  --first-color: #4fbf8b;
-  --first-color-alt: #44ae7c;
+  --color-primary: #4fbf8b;
+  --color-primary-dull: #44ae7c;
 }
