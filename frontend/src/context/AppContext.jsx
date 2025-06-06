@@ -1,4 +1,3 @@
-/* eslint-disable react-refresh/only-export-components */
 import { createContext, useContext, useEffect, useState } from 'react';
 import { dummyProducts } from '../assets/assets';
 import toast from 'react-hot-toast';
